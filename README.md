@@ -1,4 +1,4 @@
-# CreditCardFraudDetectionProject
+# FraudTransactionDetectionProject
 
 Today's world has changed in terms of how businesses operate. As a result, 
 there is a quick transition to digital transactions. Our approach to financial 
