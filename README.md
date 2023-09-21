@@ -19,5 +19,5 @@ transaction. If there are any abnormalities in any of the variables listed based
 data that we have provided to it, the AI will prompt the transaction to be a fraud 
 transaction.
 
-The data that we have chosen can be obtained through kaggle.
-The link to the datset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
+The data that we have chosen can be obtained from kaggle.
+The link to the dataset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
