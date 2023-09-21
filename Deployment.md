@@ -1,14 +1,17 @@
 ![image](https://github.com/AimanZaharin/CreditCardFraudDetectionProject/assets/92364588/88fdba06-5be9-46fc-8115-d5f2768db485)
+<br> 
 In the beginning of the code, we will be importing related libraries that is the basic libraries, 
 preprocessing libraries, model training libraries, under sampling and oversampling libraries 
 and lastly libraries for checking accuracy.
 
 ![image](https://github.com/AimanZaharin/CreditCardFraudDetectionProject/assets/92364588/5e905940-c0bb-4b75-9f6c-fb4cb7a3be85)
+<br>
 In this line of code, it reads CSV file named ‘onlinefraud.csv’ using the pandas library and 
 assigns the result data to a variable called ‘Data’. We can see that the data was displayed the 
 first five rows of the ‘Data’ Data Frame. 
 
 ![image](https://github.com/AimanZaharin/CreditCardFraudDetectionProject/assets/92364588/179735ff-209f-45d4-8fb6-58d6e478b37d)
+<br>
 The code executes the data type for each of the features
 
 ![image](https://github.com/AimanZaharin/CreditCardFraudDetectionProject/assets/92364588/0e4bca08-dafa-4d05-a8cd-7cf5de93bcfe)
