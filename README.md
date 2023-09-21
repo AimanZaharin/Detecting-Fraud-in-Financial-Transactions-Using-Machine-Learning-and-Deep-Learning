@@ -11,7 +11,7 @@ made is authentic or otherwise. Nowadays, even if the transaction page is legit,
 sometimes there are malicious transactions that are hidden behind it making the 
 transaction to be a fraud overall.
 
-Therefore, we as a group have decided to use the data that has been obtained 
+Therefore, I have decided to use the data that has been obtained 
 in Kaggle and make a Digital Transaction Checker. This model, will identify if a 
 transaction is fraud based on the type of transaction, the amount that is used in 
 transaction, the account holder’s original and new balance that will occur after the 
@@ -19,7 +19,7 @@ transaction. If there are any abnormalities in any of the variables listed based
 data that we have provided to it, the AI will prompt the transaction to be a fraud 
 transaction.
 
-The data that we have chosen can be obtained from kaggle.
+Sadly, the data that I have chosen is too big to upload it to GItHub. You can download it yourself from Kaggle.  
 The link to the dataset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
 References:-
