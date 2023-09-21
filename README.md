@@ -18,3 +18,6 @@ transaction, the account holder’s original and new balance that will occur aft
 transaction. If there are any abnormalities in any of the variables listed based on the 
 data that we have provided to it, the AI will prompt the transaction to be a fraud 
 transaction.
+
+The data that we have chosen can be obtained through kaggle.
+The link to the datset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
