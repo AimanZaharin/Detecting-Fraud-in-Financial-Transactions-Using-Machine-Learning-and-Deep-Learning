@@ -11,8 +11,7 @@ made is authentic or otherwise. Nowadays, even if the transaction page is legit,
 sometimes there are malicious transactions that are hidden behind it making the 
 transaction to be a fraud overall.
 
-Therefore, I have decided to use the data that has been obtained 
-in Kaggle and make a Digital Transaction Checker. This model, will identify if a 
+Therefore, I have decided to create a Digital Transaction Checker. This model, will identify if a 
 transaction is fraud based on the type of transaction, the amount that is used in 
 transaction, the account holder’s original and new balance that will occur after the 
 transaction. If there are any abnormalities in any of the variables listed based on the 
