@@ -71,4 +71,4 @@ https://realpython.com/python-speech-recognition/
 20. What is Speech Recognition? | IBM. (n.d.). https://www.ibm.com/topics/speech-recognition
 21. Keith Galli. (2022, March 17). Complete Natural Language Processing (NLP) Tutorial in 
 Python! (with examples) [Video]. YouTube. 
-https://www.youtube.com/watch?v=M7SWr5xObk
+https://www.youtube.com/watch?v=M7SWr5xObkA
