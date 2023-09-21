@@ -19,7 +19,7 @@ transaction. If there are any abnormalities in any of the variables listed based
 data that we have provided to it, the AI will prompt the transaction to be a fraud 
 transaction.
 
-Sadly, the data that I have chosen is too big to upload it to GitHub. You can download it yourself from Kaggle.  
+Sadly, the data that I have chosen is too big to upload it to GitHub. You can download it yourself on Kaggle.  
 The link to the dataset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
 References:-
