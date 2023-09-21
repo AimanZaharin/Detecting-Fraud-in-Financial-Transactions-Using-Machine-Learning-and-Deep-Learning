@@ -1,4 +1,4 @@
-Results:-
+<h1> Results:- </h1>
 
 ![image](https://github.com/AimanZaharin/CreditCardFraudDetectionProject/assets/92364588/33b12d25-1486-4651-920a-8e32bfd52ed1)
 
@@ -12,7 +12,7 @@ would then affect the f1-score. We could justify this by looking at the support 
 classes with an accuracy approximating to 1.00, it can be said that we are successful in 
 training the model by implementing Logistic Regression.
 
-Discussions:-
+<h1> Discussions:- </h1>
 
 For this model, mainly we used Logistic Regression Algorithm and 
 RandomisedSearchCV method for the training of our model. We also used Robust 
@@ -32,7 +32,7 @@ the Logistic Regression Algorithm. Therefore, all these methods help each other 
 ensuring our dataset is properly scaled, allowing for a more reliable model evaluation 
 through cross-validation, thus, improving its performance.
 
-Opinions on the result obtained:-
+<h1> Opinions on the result obtained:- </h1>
 
 Despite the fact that our model obtained accuracy close to 100%, we believe 
 that this accuracy is due to the sample prediction being too shallow because the 
@@ -43,7 +43,7 @@ dataset can then be used as it is without having to scale to an extreme end, alt
 it might struggle to achieve almost 100% accuracy then but at least our model will 
 show it flaws and allow us to improve it to the smallest of details.
 
-Opinions on improvements:-
+<h1> Opinions on improvements:- </h1> 
 
 We have discussed and analysed potential enhancements to our model. Our 
 perspective is that the datasets, algorithm selection, and dataset cleaning are the 
